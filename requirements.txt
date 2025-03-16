@@ -5,3 +5,4 @@ tensorflow==2.18.0
 opencv-python==4.11.0.86
 numpy==1.26.4
 sickit-learn==1.6.1
+insightface==0.7.3
